@@ -1,5 +1,7 @@
 # About Me:
-Junior Compsci Student @ UTD <br>Expected Graduation Spring 27'<br>Currently working on full stack X.com clone
+* Junior Compsci Student @ UTD
+* Expected Graduation Spring 27'
+* Currently working on full stack X.com clone
 
 
 ## Socials:
